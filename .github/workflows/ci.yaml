@@ -2,7 +2,7 @@ name : CrediBanco CI
 
 on:
   push:
-    branches: ["continuous_integration"]
+    branches: ["continuous-integration"]
   pull_request:
     branches: [ "master" ]
 
